@@ -88,13 +88,13 @@ menu:
 # how not to duplicate things in e.g. the services menu
 languages:
   en:
-    title: United Kingdom
+    title: The Netherlands
     weight: 1
     languageName: English
   cy:
-    title: Deyrnas Unedig
+    title: Nederlands
     weight: 2
-    languageName: Cymraeg
+    languageName: Dutch
     menu:
       main:
         - identifier: about
