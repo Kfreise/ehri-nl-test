@@ -1,17 +1,17 @@
 ---
-title: About EHRI-UK
+title: About EHRI-NL
 type: about
 ---
 
 {{< intro >}}
 The [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project.eu) is an international 
 infrastructure securing Holocaust research, commemoration and education on a trans-national level. 
-EHRI-UK is the national node representing the United Kingdom within this international research consortium.
+EHRI-NL is the national node representing the Netherlands within this international research consortium.
 {{< /intro >}}
 
-### EHRI-UK will seek to ensure the long-term sustainability of Holocaust research within the UK and beyond by:
+### EHRI-NL will seek to ensure the long-term sustainability of Holocaust research within the Netherlands and beyond by:
 
- * representing institutions within the UK (and Crown Dependencies) which contain materials related to Holocaust
+ * representing institutions within the Netherlands which contain materials related to Holocaust
    Studies to create a strong research consortium;
  * connecting resources through a state-of-the-art digital infrastructure;
  * developing innovative digital research tools;
