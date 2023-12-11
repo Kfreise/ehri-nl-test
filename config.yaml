@@ -3,7 +3,7 @@ languageCode: en-gb
 title: The Netherlands
 theme: ehri-nn
 copyright: '© 2010-{year} EHRI Consortium.'
-defaultContentLanguage: nl
+defaultContentLanguage: en
 dateFormat: '2 January 2006'
 summaryLength: 40
 params:
